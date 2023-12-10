@@ -6,4 +6,4 @@ ini branch
 
 ini balik main
 
-ini ketiga
+ini ketiga (harusnya jadi lah)
